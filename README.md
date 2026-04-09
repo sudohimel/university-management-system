@@ -5,6 +5,10 @@
 ![Backend](https://img.shields.io/badge/Type-Backend%20System-green)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![JDBC](https://img.shields.io/badge/API-JDBC-orange)
+![Version](https://img.shields.io/badge/Version-1.0-blue)
+
+**Tags**: `java` `mysql` `jdbc` `backend` `education` `fees-management` `database` `university` `console-app` `desktop-application`
 
 A comprehensive **University Management System** backend application for handling student fees management. Built with Java and MySQL, it automates fee calculation with GPA-based scholarship waivers, student enrollment, and course management. Perfect for academic institutions needing a flexible fees management solution.
 
