@@ -604,7 +604,20 @@ GitHub: [@sudohimel](https://github.com/sudohimel)
 
 ---
 
-## 📚 References
+## � Full Documentation
+
+This project includes comprehensive documentation in the `docs/` folder:
+
+- **[ARCHITECTURE.md](docs/ARCHITECTURE.md)** – System architecture, design patterns, layered architecture
+- **[API_DOCUMENTATION.md](docs/API_DOCUMENTATION.md)** – All database operations, current JDBC implementation, future REST API spec
+- **[DATABASE_SCHEMA.md](docs/DATABASE_SCHEMA.md)** – Complete ER diagram, table definitions, indexes, query optimization
+- **[FLOW.md](docs/FLOW.md)** – Business process flows, fee calculation workflow, student lifecycle
+
+Visual evidence and screenshots: [screenshots/](screenshots/)
+
+---
+
+## �📚 References
 
 - [MySQL Official Documentation](https://dev.mysql.com/doc/)
 - [Java JDBC Programming Guide](https://docs.oracle.com/en/java/)
