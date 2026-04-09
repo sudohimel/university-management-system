@@ -1,0 +1,40 @@
+# Java compiled files
+*.class
+*.jar
+*.war
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+
+# Build directories
+build/
+dist/
+out/
+target/
+bin/
+
+# Gradle/Maven
+.gradle/
+.m2/
+
+# Log files
+*.log
+
+# Database
+*.db
+*.sqlite
+*.sql.bak
+
+# Environment files
+.env
+.env.local
+
+# Configuration files
+config.properties
+db.properties
